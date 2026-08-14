@@ -22,7 +22,7 @@ p {
     letter-spacing: 0.03em;
     text-align: justify;
     color: transparent;
-    background: url("./rose.jpg") center/cover no-repeat;
+    background: url("./rose.jpg") center/cover no-repeat fixed;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
